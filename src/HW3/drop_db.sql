@@ -1,0 +1,10 @@
+DROP TABLE movies;
+DROP TABLE movie_tags;
+DROP TABLE movie_actors;
+DROP TABLE movie_directors;
+DROP TABLE movie_countries;
+DROP TABLE movie_genres;
+DROP TABLE movieLocations;
+DROP TABLE ratedMovies;
+DROP TABLE taggedMovies;
+DROP TABLE tags;

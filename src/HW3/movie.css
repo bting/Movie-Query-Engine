@@ -1,0 +1,34 @@
+.root {
+
+}
+.label {
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+    -fx-font-fill: #333333;
+    -fx-effect: dropshadow(gaussian, rgba(255, 255, 255, 0.5), 0, 0, 0, 1);
+}
+.text {
+    -fx-fill: #383838;
+}
+
+.title {
+    -fx-font-size: 32px;
+    -fx-font-family: "Arial Black";
+    -fx-fill: #818181;
+    -fx-effect: innershadow(three-pass-box, rgba(0,0,0,0.7), 6, 0.0, 0, 2);
+}
+
+.mulTitle {
+    -fx-font-size: 14px;
+    -fx-font-family: "Arial Black";
+    -fx-fill: #818181;
+    -fx-effect: innnershadow(three-pass-box, rgba(0, 0, 0, 0.9), 9, 0.0, 0, 1);
+}
+
+.button {
+    -fx-text-fill: Black;
+    -fx-font-family: "Arial Black";
+    -fx-font-weight: bold;
+    -fx-background-color: #D8D8D8;
+    -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.7), 3, 0.0, 0, 1);
+}
